@@ -1,7 +1,5 @@
 // first create a repo on github. you can also get your pat(personal access token) ready too
 
-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
-
 git init
 git status
 git add .
